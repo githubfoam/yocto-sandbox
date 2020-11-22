@@ -1,6 +1,6 @@
 # yocto-sandbox
 
-[![Build Status](https://travis-ci.com/githubfoam/yocto-sandbox.svg?branch=dev)](https://travis-ci.com/githubfoam/yocto-sandbox)  
+[![Build Status](https://travis-ci.com/githubfoam/yocto-sandbox.svg?branch=main)](https://travis-ci.com/githubfoam/yocto-sandbox)  
 
 ~~~~
 https://www.yoctoproject.org/software-item/poky/
